@@ -66,7 +66,7 @@
 
 AI-Translators.com provides a professional AI-powered translation platform offering text, document, website, photo, and video translation services in over 100 languages. The service emphasizes privacy, does not store user data for training, and offers a free tier with limits plus paid plans. It supports real-time conversation mode and integrates with various tools, aiming to break language barriers worldwide.
 
-**Areas:** AI · Translation · Machine-Learning · SaaS · Language-Technology
+**Areas:** Artificial Intelligence · Translation · Machine Learning · Software-as-a-Service · Language Technology
 
 ## AI-Translators.com on APIs.io
 
@@ -76,30 +76,36 @@ Everything profiled for AI-Translators.com is published on APIs.io rather than i
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [ai-translators-com-mcp.yml](https://apis.io/servers/ai-translators-com/ai-translators-com-mcp-yml/)
+
 #### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Ai Translators Com Authentication](https://apis.io/security/ai-translators-com/ai-translators-com-authentication/)
-- [Ai Translators Com Domain Security](https://apis.io/security/ai-translators-com/ai-translators-com-domain-security/)
+- [AI-Translators.com Authentication](https://apis.io/security/ai-translators-com/ai-translators-com-authentication/)
+- [AI-Translators.com Domain Security](https://apis.io/security/ai-translators-com/ai-translators-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Ai Translators Com Scopes](https://apis.io/scopes/ai-translators-com/ai-translators-com-scopes/)
+- [AI-Translators.com Scopes](https://apis.io/scopes/ai-translators-com/ai-translators-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Ai Translators Com Plans Pricing](https://apis.io/plans/ai-translators-com/ai-translators-com-plans-pricing/)
+- [AI-Translators.com Plans Pricing](https://apis.io/plans/ai-translators-com/ai-translators-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Ai Translators Com Rate Limits](https://apis.io/rate-limits/ai-translators-com/ai-translators-com-rate-limits/)
+- [AI-Translators.com Rate Limits](https://apis.io/rate-limits/ai-translators-com/ai-translators-com-rate-limits/)
 
 ## Where to find this API
 
@@ -118,18 +124,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 21.9** — emerging · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 22.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.3 |
+| Discoverability | 55.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 35.7 |
-| Access clarity | 44.7 |
+| Access clarity | 48.9 |
 
-**Agent readiness 5.6** — agent-aware
+**Agent readiness 5.8** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -155,8 +161,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 16.4** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ai-translators-com/](https://apis.io/providers/ai-translators-com/).
 
